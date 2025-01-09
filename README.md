@@ -38,12 +38,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/leoo468/leoo468/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/pcalvq5guzdst9kuek2gm1m6t">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=pcalvq5guzdst9kuek2gm1m6t&count=5&unique=false" alt="Spotify recently played"  />
